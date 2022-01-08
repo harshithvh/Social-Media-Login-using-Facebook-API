@@ -6,7 +6,7 @@ The average number of social media accounts is 8.4 per person in 2020. The growt
 
 <hr>
 
-<img align="left" alt="Visual Studio Code" width="400px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-1.png" />
+<img align="left" float="left" alt="Visual Studio Code" width="400px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-1.png" />
 <img align="left" alt="Visual Studio Code" width="400px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-5.png" />
 
 <hr>
