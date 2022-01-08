@@ -7,7 +7,7 @@ The average number of social media accounts is 8.4 per person in 2020. The growt
 ---
 
 <img align="left" alt="Visual Studio Code" width="400px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-1.png" />
-<img align="right" alt="Visual Studio Code" width="400px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-5.png" />
+<img align="left" alt="Visual Studio Code" width="400px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-5.png" />
 
 ---
 
@@ -17,7 +17,7 @@ The average number of social media accounts is 8.4 per person in 2020. The growt
 
 86% of users report being bothered by having to create new accounts on websites. Out of all the available login methods available Facebook is the most used.
 
-<img align="left" alt="Visual Studio Code" width="820px" height="600px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-2.png" />
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-2.png" />
 
 # Web Authentication
 
@@ -25,7 +25,7 @@ The average number of social media accounts is 8.4 per person in 2020. The growt
 
 Authentication is the process of verifying the identity of an individual. A user can interact with a web application using multiple actions. Access to specific activities or pages can be restricted using user levels. Authorization is the process of controlling user access via assigned roles & privileges.
 
-<img align="left" alt="Visual Studio Code" width="820px" height="600px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-3.png" />
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-3.png" />
 
 # Facebook API
 
@@ -35,7 +35,7 @@ The Conversions API is designed to create a direct connection between your marke
 
 The Conversions API is designed to create a direct and reliable connection between marketing data from your server, website platform or CRM to Facebook. This marketing data helps power ad personalisation, optimisation and measurement on Facebook so that your ads are shown to people who are more likely to be interested in them.
 
-<img align="left" alt="Visual Studio Code" width="820px" height="600px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-4.png" />
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-4.png" />
 
 
 # Facebook Login Demo with Heroku
