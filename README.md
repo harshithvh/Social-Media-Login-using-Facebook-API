@@ -32,6 +32,22 @@ The Conversions API is designed to create a direct and reliable connection betwe
 
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-4.png" />
 
+# Facebook SDK
+
+---
+
+1. Enables you to use the Like Button and other Social Plugins on your site.
+
+2. Enables you to use Facebook Login to lower the barrier for people to sign up on your site.
+
+3. Makes it easy to call into Facebook's Graph API.
+
+4. Launch Dialogs that let people perform various actions like sharing stories.
+
+5. Facilitates communication when you're building a game or an app tab on Facebook.
+
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Social-Media-Login-using-Facebook-API/blob/main/images/img-6.png" />
+
 
 # Facebook Login Demo with Heroku
 
